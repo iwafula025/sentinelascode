@@ -4,8 +4,8 @@
 name: build and deploy Alert Rules
 resources:
  pipelines:
-   - pipeline: BuildScripts
-     source: 'scriptsCI'
+   - pipeline: Scripts
+     source: 'BuildScripts'
 trigger:
  paths:
    include:
