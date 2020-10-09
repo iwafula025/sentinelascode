@@ -1,8 +1,8 @@
 {
     "deployments": [
         {
-            "resourcegroup": "sentinel",
-            "workspace": "sorisentinel"
+            "resourcegroup": "Az-Sec",
+            "workspace": "IWAMSALA"
         },
         {
             "resourcegroup": "production",
